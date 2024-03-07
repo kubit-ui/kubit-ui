@@ -2,7 +2,7 @@
   <a href="https://kubit-ui.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/readme_logo.png">
-      <img src="https://github.com/kubit-ui/web-components/raw/main/assets/readme_logo.png" height="128">
+      <img src="https://github.com/kubit-ui/web-components/raw/main/assets/banner_kubit_readme.png" width="70%">
     </picture>
     <h1 align="center">Kubit</h1>
   </a>
@@ -65,6 +65,6 @@ For more information on contributing to our projects, please refer to the `CONTR
 
 ## Contact
 
-If you have any questions or need assistance with one of our projects, please don't hesitate to reach out. You can contact us via email at [kubit@opendigitalservices.com](mailto:kubit@opendigitalservices.com) or by opening an issue in the repository you're interested in.
+If you have any questions or need assistance with one of our projects, please don't hesitate to reach out.
 
-We're excited to have you join [Your Organization Name] and contribute to our projects. Happy coding!
+We're excited to have you join Kubit and contribute to our projects. Happy coding!
