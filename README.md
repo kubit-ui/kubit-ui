@@ -4,7 +4,6 @@
       <source media="(prefers-color-scheme: dark)" srcset="./assets/readme_logo.png">
       <img src="https://github.com/kubit-ui/kubit-react-components/raw/main/assets/banner_kubit_readme.png" width="70%">
     </picture>
-    <h1 align="center">Kubit</h1>
   </a>
 </p>
 
