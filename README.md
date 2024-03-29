@@ -2,7 +2,7 @@
   <a href="https://kubit-ui.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/readme_logo.png">
-      <img src="https://github.com/kubit-ui/web-components/raw/main/assets/banner_kubit_readme.png" width="70%">
+      <img src="https://github.com/kubit-ui/kubit-react-components/raw/main/assets/banner_kubit_readme.png" width="70%">
     </picture>
     <h1 align="center">Kubit</h1>
   </a>
